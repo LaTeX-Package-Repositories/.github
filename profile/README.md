@@ -21,4 +21,7 @@ LaTeX Project code (which is maintained under the [LaTeX3 github organization](h
 | Dominique P. G. Unruh, Wolfgang Jeltsch | [ucs](https://github.com/LaTeX-Package-Repositories/ucs) |
 | Hendri Adriaens | [xkeyval](https://github.com/LaTeX-Package-Repositories/xkeyval) |
 | Peter Wilson,  Alan Hoenig | [cutwin](https://github.com/LaTeX-Package-Repositories/cutwin) |
-| ... | [latex-context-ppchtex](https://github.com/LaTeX-Package-Repositories/latex-context-ppchtex)  [minitoc](https://github.com/LaTeX-Package-Repositories/minitoc)  [pigpen](https://github.com/LaTeX-Package-Repositories/pigpen)    [setspace](https://github.com/LaTeX-Package-Repositories/setspace)  |
+| Hans Hagen | [latex-context-ppchtex](https://github.com/LaTeX-Package-Repositories/latex-context-ppchtex) |
+| Jean-Pierre F. Drucbert |[minitoc](https://github.com/LaTeX-Package-Repositories/minitoc) |
+| Oliver Corff | [pigpen](https://github.com/LaTeX-Package-Repositories/pigpen)  |
+| Geoffrey Tobin |[setspace](https://github.com/LaTeX-Package-Repositories/setspace)  |
