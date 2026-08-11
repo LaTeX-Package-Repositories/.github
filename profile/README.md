@@ -25,4 +25,4 @@ LaTeX Project code (which is maintained under the [LaTeX3 github organization](h
 | Oliver Corff | [pigpen](https://github.com/LaTeX-Package-Repositories/pigpen)  |
 | Geoffrey Tobin |[setspace](https://github.com/LaTeX-Package-Repositories/setspace)  |
 
-[//]: # ( | Hiroshi Nakashima | [arydshln](https://github.com/LaTeX-Package-Repositories/arydshln) | )
+
