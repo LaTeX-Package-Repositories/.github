@@ -24,5 +24,5 @@ LaTeX Project code (which is maintained under the [LaTeX3 github organization](h
 | Jean-Pierre F. Drucbert |[minitoc](https://github.com/LaTeX-Package-Repositories/minitoc) |
 | Oliver Corff | [pigpen](https://github.com/LaTeX-Package-Repositories/pigpen)  |
 | Geoffrey Tobin |[setspace](https://github.com/LaTeX-Package-Repositories/setspace)  |
-
+| Sebastian Rahtz |[backref](https://github.com/LaTeX-Package-Repositories/backref) [nameref](https://github.com/LaTeX-Package-Repositories/nameref)  |
 
