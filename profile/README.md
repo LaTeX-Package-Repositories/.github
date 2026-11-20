@@ -26,4 +26,4 @@ LaTeX Project code (which is maintained under the [LaTeX3 github organization](h
 | Oliver Corff | [pigpen](https://github.com/LaTeX-Package-Repositories/pigpen)  |
 | Geoffrey Tobin | [setspace](https://github.com/LaTeX-Package-Repositories/setspace)  |
 | Sebastian Rahtz | [backref](https://github.com/LaTeX-Package-Repositories/backref) [nameref](https://github.com/LaTeX-Package-Repositories/nameref)  |
-| Michael Sharpe | [msharpe][https://github.com/LaTeX-Package-Repositories/msharpe) |
+| Michael Sharpe | [msharpe](https://github.com/LaTeX-Package-Repositories/msharpe) |
